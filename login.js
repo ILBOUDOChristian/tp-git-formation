@@ -1,1 +1,1 @@
-function login() { console.log("Login version U3"); }
+function login() { console.log("Login version U2/Main"); }
