@@ -1,6 +1,1 @@
-function login() {
-  console.log("Connexion utilisateur");
-}
-Soyez plus explicite
------------------------------------------------------------------------------------------------------------------
-
+function login() { console.log("Login version U3"); }
